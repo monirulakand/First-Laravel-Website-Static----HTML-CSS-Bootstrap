@@ -1,0 +1,24 @@
+.band-logo{
+    width:40px;
+    height:40px;
+}
+
+.margin-top{
+    margin-top: 80px;
+}
+
+.parallax{
+    background-image: url("../images/banner.jpg");
+    min-height: 450px;
+    min-width: 100%;
+    margin-right: 0%;
+    margin-top: 65px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.top-Banner{
+    margin-top: 120px;
+}
